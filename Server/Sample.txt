@@ -1,0 +1,24 @@
+j@Jessie:~/Desktop/AssignmentOne$ ./server-tcp 13123 u p
+
+
+Handling client 192.168.1.1
+
+Received Message: "requesting_authentication"
+
+Sending random string: "zpwdjyljkdnwtourjxbfstgqbaxsjsglkdovdcephsmbgiupfvxzofpshomshsdt"
+
+Received Message: "u:7aafd943cff5265fc03c76bc8def5af8"
+
+Split message into "u" and "7aafd943cff5265fc03c76bc8def5af8"
+
+Checking Username...found u
+
+String to be hashed: "upzpwdjyljkdnwtourjxbfstgqbaxsjsglkdovdcephsmbgiupfvxzofpshomshsdt"
+
+Hash result: "7aafd943cff5265fc03c76bc8def5af8"
+
+Successful login, notifying client.
+
+Retrieving File: test
+
+Finished. Closing connection.

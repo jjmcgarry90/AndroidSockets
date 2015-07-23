@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HomeActivity!</string>
+    <string name="app_name">LetMeIn</string>
+    <string name="address_field">Server IP Address:</string>
+    <string name="port_field">Port Number:</string>
+    <string name="username_field">Username:</string>
+    <string name="password_field">Password:</string>
+    <string name="login">Login</string>
+    <string name="connect_error">Could not connect with the information provided.
+         Ensure that the information you provided is correct. If so, please try
+          again later as the server may be down.</string>
+    <string name="filename_prompt">Enter a filename to retrieve from the server:
+                                                                       </string>
+    <string name="file_not_found">That filename is not available on the server.
+        															   </string>
+    <string name="empty_field">Ensure all fields are filled out.</string> 
+    <string name="empty_file">That file is empty.</string>   		
+    <string name="logout_msg">You have logged out.</string>		
+    <string name="auth_fail">Invalid username or password.</string>		
+    <string name="long_name">Username is too long.</string>	
+    <string name="long_pass">Password is too long.</string>	
+    								   
+
+</resources>
